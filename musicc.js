@@ -134,7 +134,8 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: "Tanpa Pesan Terakhir - Seventeen", src: "https://files.catbox.moe/gkwg23.mp3" },
         { title: "Taruh - Nadin Amizah", src: "https://files.catbox.moe/dhcp2c.mp3" },
         { title: "Tetap Dalam Jiwa - Isyana Sarasvati", src: "https://files.catbox.moe/t1smju.mp3" },
-        { title: "Tikus - Tikus Kantor - Iwan Fals", src: "https://files.catbox.moe/14vgzw.mp3" }
+        { title: "Tikus - Tikus Kantor - Iwan Fals", src: "https://files.catbox.moe/14vgzw.mp3" },
+        { title: "Sampai Jadi Debu - Banda Neira", src: "https://files.catbox.moe/9frwq7.mp3" }
     ],
     RzyMusicV4: [
         { title: "キャットラビング・香椎モイ ミ - 香椎モイミ", src: "https://files.catbox.moe/ue0xda.mp3" },
@@ -180,6 +181,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: "青と夏 - Mrs. GREEN APPLE", src: "https://files.catbox.moe/hi8h8v.mp3" }
     ],
   RzyMusicV5: [
+    { title: "Saturn - SZA", src: "https://files.catbox.moe/0h6bwy.mp3" },
     { title: "End of Beginning - Djo", src: "https://files.catbox.moe/q5wxcc.mp3" },
     { title: "Love Story - Indila", src: "https://files.catbox.moe/3sqm42.mp3" },
     { title: "Starboy - The Weeknd", src: "https://files.catbox.moe/em3e7c.mp3" },
